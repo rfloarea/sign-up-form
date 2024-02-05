@@ -1,5 +1,28 @@
 # a sign up form
-just some practice creating a sign up form
+just some practice creating a form
+
+## TODO
+research: how to implement two form submits on one page
+
+fix: change checkboxes to radio (only one being selectable at a time)
+
+feat: form validations (no js)
+- name
+- email
+- message
+- newsletter sign up
+- error messages
+- helper text (opt)
+
+style: focus and hover effects
+
+## What I did
+Used HTML and CSS to build a simple web form that simulates sending a message (like on a contact page) and signing up for a newsletter.
+
+## What I learned
+1. Atomic commits are an essential skill
+2. Prioritize building a complete HTML structure before styling things
+3. This is all a process of uncovering my unknown unknowns (as well as solidifying my knowns)
 
 ## Plog
 
