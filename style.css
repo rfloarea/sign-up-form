@@ -21,20 +21,20 @@ form {
     display: flex;
 }
 
-label {
-    border: 1px solid black;
-}
-
 .form-row {
     display: flex;
-    justify-content: flex-start;
-    /* flex-direction: column; */
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 textarea {
     width: 75%;
     height: 200px;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 75%;
 }
 
 section {
