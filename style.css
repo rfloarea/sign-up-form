@@ -8,17 +8,23 @@ body {
     border: 1px solid black;
 }
 
+header {
+    text-align: center;
+}
+
 img {
     width: 100%;
     height: auto;
 }
 
-header {
-    text-align: center;
-}
-
 form {
     display: flex;
+}
+
+section {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .form-row {
@@ -36,12 +42,6 @@ textarea {
 input[type="text"],
 input[type="email"] {
     width: 75%;
-}
-
-section {
-    margin: 20px;
-    padding: 10px;
-    border-radius: 10px;
 }
 
 .message-section {
