@@ -56,6 +56,10 @@ section {
     border: 1px solid black;
 }
 
+fieldset {
+    border: 0;
+}
+
 footer {
     text-align: center;
     border: 1px solid black;
