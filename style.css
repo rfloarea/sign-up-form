@@ -17,13 +17,23 @@ header {
     text-align: center;
 }
 
+form {
+    display: flex;
+}
+
+label {
+    border: 1px solid black;
+}
+
 textarea {
     width: 75%;
     height: 200px;
 }
 
-form {
-    display: flex;
+section {
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 .message-section {
