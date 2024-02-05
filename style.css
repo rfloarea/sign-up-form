@@ -88,6 +88,12 @@ fieldset {
 button[type="submit"] {
     margin-top: auto;
     width: 100%;
+    padding: 6px;
+    font-family: 'VDSRegular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 16px;
+    color: hsl(210, 33%, 9%);
 }
 
 footer {
