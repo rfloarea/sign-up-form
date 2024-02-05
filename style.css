@@ -25,6 +25,10 @@ label {
     border: 1px solid black;
 }
 
+.form-row {
+    display: flex;
+}
+
 textarea {
     width: 75%;
     height: 200px;
