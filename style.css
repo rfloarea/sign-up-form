@@ -3,7 +3,6 @@
 }
 
 body {
-    /* display: flex; */
     border: 1px solid black;
 }
 
@@ -14,4 +13,23 @@ img {
 
 header {
     text-align: center;
+}
+
+textarea {
+    width: 300px;
+    height: 200px;
+}
+
+form {
+    display: flex;
+}
+
+.message-section {
+    width: 50%;
+    height: auto;
+}
+
+.email-signup {
+    width: 50%;
+    height: auto;
 }
