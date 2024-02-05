@@ -6,3 +6,7 @@ body {
     display: flex;
     border: 1px solid black;
 }
+
+header {
+    background-image: url(./lou-lou.jpg); /* need to resize */
+}
