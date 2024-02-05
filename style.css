@@ -43,6 +43,7 @@ section {
     margin: 20px;
     padding: 10px;
     border-radius: 10px;
+    background-color: hsla(325, 25%, 85%, 0.926);
 }
 
 .form-row {
@@ -92,7 +93,7 @@ button[type="submit"] {
 footer {
     border-top: 3px solid black;
     padding: 6px;
-    background-color: hsl(311, 31%, 80%);
+    background-color: hsla(325, 25%, 85%, 0.926);
 }
 
 footer > p{
