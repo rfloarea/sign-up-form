@@ -16,12 +16,13 @@ header {
 }
 
 textarea {
-    width: 300px;
+    width: 75%;
     height: 200px;
 }
 
 form {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .message-section {
